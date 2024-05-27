@@ -11,35 +11,52 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Provisional Ph.D, University of Leeds, 2024 Fall (expected to enroll)
+  * School of Computing, major in Computing
+  * EPSRC Full Studentship Recipient
+
+* M.Res, University of Liverpool, UK, 2024 March
+  * School of Advanced Technology, major in Pattern Recognition and Intelligent System
+  * Full Studentship Recipient (Top 5%), Pass with Distinction
+  * Best Overall Award (Top 2%)
+
+* B.Eng, Southern University of Science and Technology, China, 2019 June
+  * Department of Computer and Engineering, major in Computer Science and Technology
+  * 2nd Place in Capstone Design Competition at the College of Engineering
+  * Outstanding Undegraduate Dissertation
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Huzhou Institute of Zhejiang University, 2022 September - 2024 March
+  * Perception Algorithm Engineer
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* [*Part Time*] Xi'an Jiaotong-Liverpool University, 2022 September - 2024 March
+  * Teach Assistant
+  * DTS201TC Pattern Recognition (130+ undergraduate students)
+  * DTS206TC Applied Linear Statistical Models (130+ undergraduate students)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Southern University of Science and Technology, 2019 September - 2022 August
+  * Research and Teach Assistant
+  * CS401 Intelligent Robotics (70+ undergraduate students)
+  * CS405 Machine Learning (90+ undergraduate and graduate students)
+
+* [*Intern*] Baker Tilly China Certified Public Accountants, 2018 June - 2018 September
+  * Due Diligence Analyst
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python > Matlab > C++ = Java > R
+
+* Design
+  * Photography
+  * Video Editing
+  * Illustration
+
+* Sports
+  * Soccer⚽️
+  * Badminton
+  * Table Tennis
 
 Publications
 ======
