@@ -1,10 +1,10 @@
 ---
-title: "A robotic sensory system with high spatiotemporal resolution for texture recognition"
+title: "A Robotic Sensory System with High Spatiotemporal Resolution for Texture Recognition"
 collection: publications
-permalink: /publication/2023-11-14-NatureCommunication
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+permalink: /publication/2023-11-14-NatureCommunications
+excerpt: 'The sensory system integrated on a prosthetic fingertip can identify 20 different commercial textiles with a 100.0% accuracy at a fixed sliding rate and a 98.9% accuracy at random sliding rates. The sensory system is expected to help achieve subtle tactile sensation for robotics and prosthetics, and further be applied to haptic-based virtual reality and beyond.'
 date: 2023-11-14
-venue: 'Journal 1'
+venue: 'Nature Communications'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://www.nature.com/articles/s41467-023-42722-4'
 citation: 'Bai, N., Xue, Y., Chen, S., Shi, L., Shi, J., Zhang, Y., ... & Guo, C. F. (2023). A robotic sensory system with high spatiotemporal resolution for texture recognition. Nature Communications, 14(1), 7121.'
