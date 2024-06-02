@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+
+[[Resume.pdf]](../files/CV_English.pdf)
+[[简历.pdf]](../files/CV_Chinese.pdf)
+
 Education
 ======
 * Provisional Ph.D, University of Leeds, 2024 Fall (expected to enroll)
