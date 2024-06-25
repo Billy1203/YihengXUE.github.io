@@ -12,7 +12,7 @@ title                    : "Billy's Homepage"
 title_separator          : "-"
 name                     : &name "Yiheng XUE"
 description              : &description "personal description"
-url                      : https://billy1203.github.io/YihengXUE.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://yihengxue.com"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,13 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "yiheng_image3.png"
+  avatar           : "yiheng_image.png"
   name             : "Yiheng XUE (Billy)"
   pronouns         : # "hi/his"  
   bio              : "Robotics & CV Engineer"
   location         : "Shenzhen, China"
   employer         : "SUSTech"
-  uri              : "https://yihengxue.com"
+#  uri              : ""
   email            : "xueyiheng1203_at_gmail.com"
 
   # Academic websites

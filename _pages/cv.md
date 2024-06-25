@@ -16,51 +16,58 @@ redirect_from:
 Education
 ======
 * Provisional Ph.D, University of Leeds, 2024 Fall (expected to enroll)
-  * School of Computing, major in Computing
-  * EPSRC Full Studentship Recipient
+  * School of Computing, major in Computing & Robotics
+  * [EPSRC-DPT](https://www.ukri.org/what-we-do/developing-people-and-skills/epsrc/studentships/doctoral-training-partnerships) Full Studentship Recipient
 
-* M.Res, University of Liverpool, UK, 2024 March
-  * School of Advanced Technology, major in Pattern Recognition and Intelligent System
-  * Full Studentship Recipient (Top 5%), Pass with Distinction
-  * Best Overall Award (Top 2%)
+* **Master of Research**, University of Liverpool, Liverpool, UK, 2024
+  * School of Advanced Technology, major in Pattern Recognition and Intelligent System, **pass with Distinction**
+  * Dissertation: Research of 3D Perception Algorithm Based on Multi-Sensor Fusion (Supervisor: Yong LIU, Ming XU) [[Dissertation.pdf]](../files/Dissertation_MRes.pdf) [[Presentation.pdf]](../files/Presentation_MRes.pdf)
+  * Best Overall Award (Top 2% in JITRI-XJTLU), Full Studentship Recipient (Top 5%)
 
-* B.Eng, Southern University of Science and Technology, China, 2019 June
+* **Bachelor of Engineering**, Southern University of Science and Technology, Shenzhen, China, 2019
   * Department of Computer and Engineering, major in Computer Science and Technology
+  * Dissertation: Real-time 3D Human Skeleton Reconstruction Based on RGB Camera Array (Supervisor: Qi HAO, Zhenhua WU)
   * 2nd Place in Capstone Design Competition at the College of Engineering
-  * Outstanding Undegraduate Dissertation
+  * Outstanding Undergraduate Dissertation
+  * About SUSTech
+    * Ranked **1st** in Mainland China and **13th** in the world in the [THE](https://www.timeshighereducation.com) Young University Rankings 2022.
+    * Ranked **15th** in Mainland China and **157th** in the world in the [US News](https://www.timeshighereducation.com) Best Global Universities 2024.
+    * [Here](https://www.nature.com/articles/nature.2012.10631) is a short story from 2012, before I decided to join in. 
 
 Work experience
 ======
-* Huzhou Institute of Zhejiang University, 2022 September - 2024 March
-  * Perception Algorithm Engineer
+* [Dingxin Capital](http://www.dingxin-capital.com), 2024.5 - Now
+  * AI Industry Analyst
 
-* [*Part Time*] Xi'an Jiaotong-Liverpool University, 2022 September - 2024 March
+* [Boundary.AI](https://www.boundaryai.cn/en), 2024.3 - 2024.5
+  * SLAM Algorithm Researcher
+
+* [Huzhou Institute of Zhejiang University](http://hzi.zju.edu.cn), 2022.9 - 2024.3
+  * Perception Algorithm Engineer in [APRIL Lab](https://april.zju.edu.cn)
+
+* [*Part Time*] Xi'an Jiaotong-Liverpool University, 2022.9 - 2024.3
   * Teach Assistant
-  * DTS201TC Pattern Recognition (130+ undergraduate students)
-  * DTS206TC Applied Linear Statistical Models (130+ undergraduate students)
+    * DTS201TC Pattern Recognition (130+ undergraduate students)
+    * DTS206TC Applied Linear Statistical Models (130+ undergraduate students)
 
-* Southern University of Science and Technology, 2019 September - 2022 August
-  * Research and Teach Assistant
-  * CS401 Intelligent Robotics (70+ undergraduate students)
-  * CS405 Machine Learning (90+ undergraduate and graduate students)
+* Southern University of Science and Technology, 2019.9 - 2022.8
+  * Research and Teach Assistant in [ISUS Lab](https://github.com/sustech-isus)
+    * CS401 Intelligent Robotics (70+ undergraduate students)
+    * CS405 Machine Learning (90+ undergraduate and graduate students)
+  * Computer Vision Engineer, in first 2 years
+    * Roboeye Technology (Shenzhen) Co., Ltd., a startup, part of the Nanshan District Leading Team Project in Shenzhen
+    * Conduct a research project related to my undergraduate dissertation and capstone design project
 
-* [*Intern*] Baker Tilly China Certified Public Accountants, 2018 June - 2018 September
+* [*Intern*] Baker Tilly China Certified Public Accountants, 2018.6 - 2018.9
   * Due Diligence Analyst
   
 Skills
 ======
-* Programming
-  * Python > Matlab > C++ = Java > R
+* Programming: Python > Matlab > C++ = Java > R
 
-* Design
-  * Photography
-  * Video Editing
-  * Illustration
+* Design: Photography, Video Editing, Illustration
 
-* Sports
-  * Soccer⚽️
-  * Badminton
-  * Table Tennis
+* Sports: Soccer⚽️, Badminton, Table Tennis
 
 Publications
 ======
