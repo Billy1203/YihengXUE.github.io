@@ -17,22 +17,23 @@ Education
 ======
 * Provisional Ph.D, University of Leeds, 2024 Fall (expected to enroll)
   * School of Computing, major in Computing & Robotics
+  * Proposed supervisors: [Dr. Yanlong HUANG](https://eps.leeds.ac.uk/computing/staff/8178/dr-yanlong-huang), [Dr. Mehmet Dogar](https://eps.leeds.ac.uk/computing/staff/743/dr-mehmet-dogar)
   * [EPSRC-DTP](https://www.ukri.org/what-we-do/developing-people-and-skills/epsrc/studentships/doctoral-training-partnerships) Full Studentship Recipient
 
-* **Master of Research**, University of Liverpool, Liverpool, UK, 2024
+* **Master of Research**, University of Liverpool (UoL), Liverpool, UK, 2024
   * School of Advanced Technology, major in Pattern Recognition and Intelligent System, pass with Distinction
-  * Dissertation: *Research of 3D Perception Algorithm Based on Multi-Sensor Fusion* (Supervisor: [Prof. Yong LIU](https://person.zju.edu.cn/yongliu)@ZJU, Dr. Zhenfeng XUE@SHU, [Prof. Ming XU](https://scholar.xjtlu.edu.cn/en/persons/MingXu)@XJTLU) [[Dissertation.pdf]](https://drive.google.com/file/d/1h_z01E-gzJwrtmt--65jNTQUVI6D89dY/view?usp=share_link) [[Presentation.pdf]](https://drive.google.com/file/d/1xv2gnPGr_nwlN4iZcTVEdeZrv4rcFprx/view?usp=share_link)
+  * Dissertation: *Research of 3D Perception Algorithm Based on Multi-Sensor Fusion* (Supervisor: [Prof. Yong LIU](https://person.zju.edu.cn/yongliu)@ZJU, Dr. Zhenfeng XUE@[SHU](https://en.shu.edu.cn), [Prof. Ming XU](https://scholar.xjtlu.edu.cn/en/persons/MingXu)@UoL) [[Dissertation.pdf]](https://drive.google.com/file/d/1h_z01E-gzJwrtmt--65jNTQUVI6D89dY/view?usp=share_link) [[Presentation.pdf]](https://drive.google.com/file/d/1xv2gnPGr_nwlN4iZcTVEdeZrv4rcFprx/view?usp=share_link)
   * Best Overall Award (Top 2% in JITRI-XJTLU), Full Studentship Recipient (Top 5%)
 
-* **Bachelor of Engineering**, Southern University of Science and Technology, Shenzhen, China, 2019
-  * Department of Computer and Engineering, major in Computer Science and Technology
-  * Dissertation: *Real-time 3D Human Skeleton Reconstruction Based on RGB Camera Array* (Supervisor: [Prof. Qi HAO](https://cse.sustech.edu.cn/faculty/~haoq)@SUSTC, Zhenhua WU@HUAWEI)
+* **Bachelor of Engineering**, Southern University of Science and Technology (SUSTech), Shenzhen, China, 2019
+  * [Department of Computer Science and Engineering](https://cse.sustech.edu.cn/en), major in Computer Science and Technology
+  * Dissertation: *Real-time 3D Human Skeleton Reconstruction Based on RGB Camera Array* (Supervisor: [Prof. Qi HAO](https://cse.sustech.edu.cn/faculty/~haoq)@SUSTech, Zhenhua WU@HUAWEI)
   * 2nd Place in Capstone Design Competition at the College of Engineering
   * Outstanding Undergraduate Dissertation 2019
-  * About SUSTech
-    * Ranked **1st** in Mainland China and **13th** in the world in the [THE](https://www.timeshighereducation.com) Young University Rankings 2022.
-    * Ranked **15th** in Mainland China and **157th** in the world in the [US News](https://www.timeshighereducation.com) Best Global Universities 2024.
-    * [Here](https://www.nature.com/articles/nature.2012.10631) is a short story from 2012, before I decided to join in. 
+  * About SUSTC/SUSTech
+    * SUSTech ranked **1st** in Mainland China and **13th** in the world in the [THE](https://www.timeshighereducation.com) Young University Rankings 2022.
+    * SUSTech ranked **15th** in Mainland China and **157th** in the world in the [US News](https://www.timeshighereducation.com) Best Global Universities 2024.
+    * [Here](https://www.nature.com/articles/nature.2012.10631) is a short story from 2012, before I decided to join in SUSTC. 
 
 Work experience
 ======
@@ -45,7 +46,7 @@ Work experience
 * [Huzhou Institute of Zhejiang University](http://hzi.zju.edu.cn), 2022.9 - 2024.3
   * Perception Algorithm Engineer in [APRIL Lab](https://april.zju.edu.cn)
 
-* [*Part Time*] Xi'an Jiaotong-Liverpool University, 2022.9 - 2024.3
+* [*Part Time*] [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en), 2022.9 - 2024.3
   * Teach Assistant
     * DTS201TC Pattern Recognition (130+ undergraduate students)
     * DTS206TC Applied Linear Statistical Models (130+ undergraduate students)
