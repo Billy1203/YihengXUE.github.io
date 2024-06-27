@@ -10,25 +10,25 @@ redirect_from:
 {% include base_path %}
 
 
-[[Resume.pdf]](../files/CV_English.pdf)
-[[简历.pdf]](../files/CV_Chinese.pdf)
+[[Resume.pdf]](https://drive.google.com/file/d/1drHYbIYqrfC0wJuacXsuvxk_bc-8C5Ar/view?usp=sharing)
+[[简历.pdf]](https://drive.google.com/file/d/1drHYbIYqrfC0wJuacXsuvxk_bc-8C5Ar/view?usp=share_link)
 
 Education
 ======
 * Provisional Ph.D, University of Leeds, 2024 Fall (expected to enroll)
   * School of Computing, major in Computing & Robotics
-  * [EPSRC-DPT](https://www.ukri.org/what-we-do/developing-people-and-skills/epsrc/studentships/doctoral-training-partnerships) Full Studentship Recipient
+  * [EPSRC-DTP](https://www.ukri.org/what-we-do/developing-people-and-skills/epsrc/studentships/doctoral-training-partnerships) Full Studentship Recipient
 
 * **Master of Research**, University of Liverpool, Liverpool, UK, 2024
-  * School of Advanced Technology, major in Pattern Recognition and Intelligent System, **pass with Distinction**
-  * Dissertation: Research of 3D Perception Algorithm Based on Multi-Sensor Fusion (Supervisor: Yong LIU, Ming XU) [[Dissertation.pdf]](../files/Dissertation_MRes.pdf) [[Presentation.pdf]](../files/Presentation_MRes.pdf)
+  * School of Advanced Technology, major in Pattern Recognition and Intelligent System, pass with Distinction
+  * Dissertation: *Research of 3D Perception Algorithm Based on Multi-Sensor Fusion* (Supervisor: [Prof. Yong LIU](https://person.zju.edu.cn/yongliu)@ZJU, Dr. Zhenfeng XUE@SHU, [Prof. Ming XU](https://scholar.xjtlu.edu.cn/en/persons/MingXu)@XJTLU) [[Dissertation.pdf]](https://drive.google.com/file/d/1h_z01E-gzJwrtmt--65jNTQUVI6D89dY/view?usp=share_link) [[Presentation.pdf]](https://drive.google.com/file/d/1xv2gnPGr_nwlN4iZcTVEdeZrv4rcFprx/view?usp=share_link)
   * Best Overall Award (Top 2% in JITRI-XJTLU), Full Studentship Recipient (Top 5%)
 
 * **Bachelor of Engineering**, Southern University of Science and Technology, Shenzhen, China, 2019
   * Department of Computer and Engineering, major in Computer Science and Technology
-  * Dissertation: Real-time 3D Human Skeleton Reconstruction Based on RGB Camera Array (Supervisor: Qi HAO, Zhenhua WU)
+  * Dissertation: *Real-time 3D Human Skeleton Reconstruction Based on RGB Camera Array* (Supervisor: [Prof. Qi HAO](https://cse.sustech.edu.cn/faculty/~haoq)@SUSTC, Zhenhua WU@HUAWEI)
   * 2nd Place in Capstone Design Competition at the College of Engineering
-  * Outstanding Undergraduate Dissertation
+  * Outstanding Undergraduate Dissertation 2019
   * About SUSTech
     * Ranked **1st** in Mainland China and **13th** in the world in the [THE](https://www.timeshighereducation.com) Young University Rankings 2022.
     * Ranked **15th** in Mainland China and **157th** in the world in the [US News](https://www.timeshighereducation.com) Best Global Universities 2024.
@@ -74,19 +74,3 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
