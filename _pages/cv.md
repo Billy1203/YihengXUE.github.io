@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 
-[[Resume.pdf]](https://drive.google.com/file/d/1drHYbIYqrfC0wJuacXsuvxk_bc-8C5Ar/view?usp=sharing)
-[[简历.pdf]](https://drive.google.com/file/d/1drHYbIYqrfC0wJuacXsuvxk_bc-8C5Ar/view?usp=share_link)
+[[Resume.pdf]](https://drive.google.com/file/d/1KTl4qMLlP35uyPOUs-MBbq623duB3skY/view?usp=sharing)
+[[简历.pdf]](https://drive.google.com/file/d/1drHYbIYqrfC0wJuacXsuvxk_bc-8C5Ar/view?usp=sharelink)
 
 Education
 ======

@@ -19,4 +19,4 @@ Beyond tech, I have dipped my toes into the financial industry, from an internsh
 
 My research passions lie in machine learning, pattern recognition, robotics perception, and computer vision. When I’m not buried in research, you’ll find me snapping photos📷, hiking🚶, playing soccer⚽️, or playing computer🧑‍💻. Check out my photos and illustrations [here](https://unsplash.com/@billyxue).
 
-Interested in collaborative research or have an innovative idea? Let’s chat! Feel free to reach out :)
+Got an idea or want to collaborate? Let’s talk! :):):)
