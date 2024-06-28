@@ -33,7 +33,7 @@ redirect_from:
   * About SUSTC/SUSTech
     * SUSTech ranked **1st** in Mainland China and **13th** in the world in the [THE](https://www.timeshighereducation.com) Young University Rankings 2022.
     * SUSTech ranked **15th** in Mainland China and **157th** in the world in the [US News](https://www.timeshighereducation.com) Best Global Universities 2024.
-    * [Here](https://www.nature.com/articles/nature.2012.10631) is a short story from 2012, before I decided to join in SUSTC. 
+    * [Here 🔞](https://www.nature.com/articles/nature.2012.10631) is a short story from 2012, before I decided to join in SUSTC. 
 
 💻 Work experience
 ======

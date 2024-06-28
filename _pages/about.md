@@ -14,6 +14,6 @@ I hold a M.Res. degree with distinction in Pattern Recognition and Intelligent S
 With one year as a research assistant at SUSTech and two years at a startup, I bring hands-on experience from both academia and the startup world. I’ve also enjoyed serving as a teaching assistant for six courses at undergraduate and master’s levels.
 Beyond tech, I have delved into the financial industry, completing an internship at an accounting firm, receiving a job offer from PwC, and working on AI industry investment research at a private equity (PE) fund, which has given me a deep understanding of the startup process and entrepreneurial experience, including insights into venture capital (VC).
 
-My research passions lie in machine learning, pattern recognition, robotics perception, and computer vision. When I’m not buried in research, you’ll find me snapping photos 📷, hiking 🚶, playing soccer ⚽️, or playing computer 🧑‍💻. Check out my photos and illustrations [here](https://unsplash.com/@billyxue).
+My research passions lie in machine learning, pattern recognition, robotics perception, and computer vision. When I’m not buried in research, you’ll find me snapping photos 📷, hiking 🚶, playing soccer ⚽️, or playing computer 🧑‍💻. Check out my photos and illustrations [here 🔞](https://unsplash.com/@billyxue).
 
 Got an idea or want to collaborate? Let’s talk! :):):)
