@@ -13,7 +13,7 @@ redirect_from:
 [[Resume.pdf]](https://drive.google.com/file/d/1KTl4qMLlP35uyPOUs-MBbq623duB3skY/view?usp=sharing)
 [[简历.pdf]](https://drive.google.com/file/d/1drHYbIYqrfC0wJuacXsuvxk_bc-8C5Ar/view?usp=sharelink)
 
-Education
+🎓 Education
 ======
 * Provisional Ph.D, University of Leeds, 2024 Fall (expected to enroll)
   * School of Computing, major in Computing & Robotics
@@ -35,7 +35,7 @@ Education
     * SUSTech ranked **15th** in Mainland China and **157th** in the world in the [US News](https://www.timeshighereducation.com) Best Global Universities 2024.
     * [Here](https://www.nature.com/articles/nature.2012.10631) is a short story from 2012, before I decided to join in SUSTC. 
 
-Work experience
+💻 Work experience
 ======
 * [Dingxin Capital](http://www.dingxin-capital.com), 2024.5 - Now
   * AI Industry Analyst
@@ -62,15 +62,15 @@ Work experience
 * [*Intern*] Baker Tilly China Certified Public Accountants, 2018.6 - 2018.9
   * Due Diligence Analyst
   
-Skills
+⚙️ Skills
 ======
 * Programming: Python > Matlab > C++ = Java > R
 
 * Design: Photography, Video Editing, Illustration
 
-* Sports: Soccer⚽️, Badminton, Table Tennis
+* Sports: Soccer ⚽️, Badminton, Table Tennis, Hiking ⛰️
 
-Publications
+📑 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
