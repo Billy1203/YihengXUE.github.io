@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "yiheng_image.png"
+  avatar           : "yiheng_image2.png"
   name             : "Yiheng XUE (Billy)"
   pronouns         : # "hi/his"  
   bio              : "Robotics & CV Engineer"
