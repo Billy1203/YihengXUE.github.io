@@ -22,7 +22,7 @@ redirect_from:
 
 * **Master of Research**, University of Liverpool (UoL), Liverpool, UK, 2024
   * School of Advanced Technology, major in Pattern Recognition and Intelligent System, pass with Distinction
-  * Dissertation: *Research of 3D Perception Algorithm Based on Multi-Sensor Fusion* (Supervisor: [Prof. Yong LIU](https://person.zju.edu.cn/yongliu)@ZJU, Dr. Zhenfeng XUE@[SHU](https://en.shu.edu.cn), [Prof. Ming XU](https://scholar.xjtlu.edu.cn/en/persons/MingXu)@UoL) [[Dissertation.pdf]](https://drive.google.com/file/d/1h_z01E-gzJwrtmt--65jNTQUVI6D89dY/view?usp=share_link) [[Presentation.pdf]](https://drive.google.com/file/d/1xv2gnPGr_nwlN4iZcTVEdeZrv4rcFprx/view?usp=share_link)
+  * Dissertation: *Research of 3D Perception Algorithm Based on Multi-Sensor Fusion* (Supervisor: [Prof. Yong LIU](https://person.zju.edu.cn/en/yongliu)@ZJU, Dr. Zhenfeng XUE@[SHU](https://en.shu.edu.cn), [Prof. Ming XU](https://scholar.xjtlu.edu.cn/en/persons/MingXu)@UoL) [[Dissertation.pdf]](https://drive.google.com/file/d/1h_z01E-gzJwrtmt--65jNTQUVI6D89dY/view?usp=share_link) [[Presentation.pdf]](https://drive.google.com/file/d/1xv2gnPGr_nwlN4iZcTVEdeZrv4rcFprx/view?usp=share_link)
   * Best Overall Award (Top 2% in JITRI-XJTLU), Full Studentship Recipient (Top 5%)
 
 * **Bachelor of Engineering**, Southern University of Science and Technology (SUSTech), Shenzhen, China, 2019
